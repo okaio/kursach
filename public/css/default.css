@@ -1,0 +1,52 @@
+body {
+    background: #edeef0;
+  }
+.content { 
+    width: 100%; 
+    background: #ccc;
+    
+   }
+.menu { 
+   
+    background: #ccc;
+    
+   }
+.header { 
+    width:100%; 
+    background: #ccc;
+    padding: 5px;
+   
+   }
+.footer { 
+    width: 100%; 
+    background: #ccc;
+    padding: 5px;
+   
+   }
+.social { 
+   
+    background: #ccc;
+    padding: 5px;
+    padding-right: 20px; 
+    border: solid 1px black; 
+   
+   }
+.prodaction { 
+
+    background: #ccc;
+    padding: 5px;
+    padding-right: 20px; 
+   
+   }
+.blank{
+    width: 100%;
+    background: white;
+    padding: 10px;
+}
+.client{
+    
+}
+.auto{
+   
+}
+}
